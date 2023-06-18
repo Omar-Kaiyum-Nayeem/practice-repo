@@ -125,3 +125,84 @@
   padding: 16px 12px;
   margin-bottom: 130px;
 }
+
+/* our donate plan */
+
+.food-shelter-education {
+  display: flex;
+  gap: 24px;
+  padding: 0 160px;
+}
+
+.food {
+  background: rgba(79, 157, 166, 0.1);
+  border-radius: 5px;
+}
+
+.icons {
+  padding: 65px 0 30px 23px;
+}
+
+.food-title {
+  color: #121212;
+  font-weight: 600;
+  font-size: 24px;
+  padding: 0 0 16px 23px;
+}
+
+.food-description {
+  font-weight: 400;
+  font-size: 16px;
+  color: #707070;
+  padding: 0 23px 54px;
+}
+
+.shelter {
+  background: rgba(255, 89, 89, 0.1);
+  border-radius: 5px;
+}
+
+.education-icon {
+  width: 53px;
+  height: 53px;
+  padding: 65px 0 30px 23px;
+}
+
+.education {
+  background: rgba(255, 202, 89, 0.452);
+  border-radius: 5px;
+}
+
+/* thei lives depen on you part */
+
+.contribute{
+  margin: 120px 200px;
+}
+.contribute-flex {
+  display: flex;
+  justify-content: center;
+  gap: 80px;
+}
+
+.contribute-heading {
+  font-weight: 700;
+  font-size: 45px;
+  color: #121212;
+  padding: 100px 0 20px;
+}
+
+.contribute-paragraph {
+  color: #707070;
+  font-weight: 400;
+  font-size: 18px;
+  padding-bottom: 30px;
+}
+
+.contribute-image {
+  width: 456px;
+  height: 477px;
+}
+
+.contribute-margin{
+  margin-top: 100px;
+}
